@@ -1,9 +1,7 @@
-# nathan-contino.github.io
-Nathan Contino's personal web page.
+# mharnold13.github.io
+Meg Arnold's personal web page.
 
-[lambdalatitudinarians.org](https://www.lambdalatitudinarians.org)
-
-[nathan-contino.github.io](https://nathan-contino.github.io/)
+[mharnold13.github.io/](https://mharnold13.github.io/)
 
 # local testing
 
