@@ -4,7 +4,7 @@ description: >
   Meg Arnold's personal website and blog.
 author: Meg Arnold
 baseurl: /
-url: "https://mharnold13.github.io/index.html
+url: "https://mharnold13.github.io/index.html"
 excerpt_separator: "<!-- readmore -->"
 
 # timezone shenanigans
