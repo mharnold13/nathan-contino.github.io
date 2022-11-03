@@ -1,0 +1,14 @@
+---
+title:  "Green Mountain Gravel Growler 2022"
+date:   2022-10-08 18:14:22 -0700
+layout: default
+categories: bikes
+---
+
+The <a href="https://bikepacking.com/routes/green-mountain-gravel-growler/">Green Mountain Gravel Growler</a> is a route designed & published by bikepacking.com. Nate & myself made it a goal this year to do our first week long tour and what better way than to just start from our backyard?! We modified this extremely popular (as far as New England bikepacking is concerned) route to start and end from our home in Littleton, NH.
+
+<!-- readmore -->
+
+Modifying the route from the original added about 60 miles and 3,000 feet of elevation change. We opted to take the full first week of October to tackle the ride and take in as much of that VT fall foliage as we could. Over 7 days, we rode anywhere between 35 & 60 miles meandering along mostly dirt roads and stopping for beer, burritos, and general store baked goods along the way. Check out <a href="https://www.lambdalatitudinarians.org/blog/2022/10/01/the-great-northern-vt-adventure-pt1.html">Nate's posts</a> for pics & more details about our misadventures!
+
+<iframe src="https://ridewithgps.com/embeds?type=route&id=41363018&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
